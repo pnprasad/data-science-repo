@@ -3,4 +3,4 @@ Class code samples
 ## Test
 ### Second Test
 * Item 1
-* Item 2:x:wq2
+* Item 2
